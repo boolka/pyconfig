@@ -1,0 +1,15 @@
+{
+  "default-1": "default-1.json",
+  "env": "default-1.json",
+  "vault": "default-1.json",
+  "host-name-1": "default-1.json",
+  "host-name-testing-1": "default-1.json",
+  "host-name-testing": "default-1.json",
+  "host-name": "default-1.json",
+  "local-1": "default-1.json",
+  "local-testing-1": "default-1.json",
+  "local-testing": "default-1.json",
+  "local": "default-1.json",
+  "testing-1": "default-1.json",
+  "testing": "default-1.json"
+}

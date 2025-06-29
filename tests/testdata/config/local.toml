@@ -1,0 +1,6 @@
+"local" = "local.toml"
+"env" = "local.toml"
+"vault" = "local.toml"
+"local-1" = "local.toml"
+"local-testing-1" = "local.toml"
+"local-testing" = "local.toml"

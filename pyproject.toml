@@ -1,0 +1,20 @@
+[project]
+name = "pyconfig"
+version = "0.1.0"
+description = "python application configurator"
+readme = "README.md"
+authors = [
+    { name = "Ragim Ibragimov", email = "boolka989@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.1",
+    "ruff>=0.12.0",
+]
